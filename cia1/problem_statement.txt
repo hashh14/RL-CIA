@@ -1,0 +1,3 @@
+Problem statement:
+Implementing a recommendation system using K-arm bandit.
+The use case considered is a movie recommendation system which can recommend a movie to a user based on what genre of movies he prefers to watch.
