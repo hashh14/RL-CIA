@@ -1,0 +1,620 @@
+Grid Navigation Results
+=====================
+
+Grid Size: 10x10
+Number of Obstacles: 30
+Total Episodes: 74
+
+Final Path States:
+================
+State: [90  2  1]
+State: [80  1  1]
+State: [81  1  1]
+State: [82  2  1]
+State: [72  2  1]
+State: [62  1  1]
+State: [63  2  1]
+State: [53  0 -5]
+
+Final Q-Values:
+=============
+
+Position (0,0):
+Right: 1.32
+Up: 1.07
+Left: 0.92
+Down: 2.12
+
+Position (0,1):
+Right: 3.62
+Up: 0.21
+Left: 4.54
+Down: 3.72
+
+Position (0,2):
+Right: 0.77
+Up: 2.79
+Left: 7.61
+Down: 4.46
+
+Position (0,3):
+Right: 3.12
+Up: -0.49
+Left: 1.06
+Down: 2.46
+
+Position (0,4):
+Right: 1.67
+Up: -0.24
+Left: -3.70
+Down: 2.99
+
+Position (0,5):
+Right: 1.39
+Up: 1.35
+Left: 4.57
+Down: 1.79
+
+Position (0,6):
+Right: 2.68
+Up: 2.81
+Left: -0.76
+Down: 0.56
+
+Position (0,7):
+Right: -4.07
+Up: 3.22
+Left: -3.86
+Down: -0.29
+
+Position (0,8):
+Right: 1.56
+Up: 4.25
+Left: -2.55
+Down: 3.31
+
+Position (0,9):
+Right: 2.30
+Up: 0.26
+Left: 14.50
+Down: 11.17
+
+Position (1,0):
+Right: 3.33
+Up: 3.18
+Left: 0.93
+Down: 1.53
+
+Position (1,1):
+Right: -4.07
+Up: 2.52
+Left: -3.57
+Down: -1.28
+
+Position (1,2):
+Right: -1.05
+Up: 3.47
+Left: 2.07
+Down: -0.30
+
+Position (1,3):
+Right: 0.79
+Up: 5.13
+Left: 0.99
+Down: 0.21
+
+Position (1,4):
+Right: 1.27
+Up: 2.15
+Left: 3.98
+Down: 4.92
+
+Position (1,5):
+Right: 2.57
+Up: 3.84
+Left: -2.61
+Down: 2.20
+
+Position (1,6):
+Right: 1.02
+Up: -3.71
+Left: 3.45
+Down: -0.83
+
+Position (1,7):
+Right: 5.93
+Up: 4.76
+Left: 4.10
+Down: 5.16
+
+Position (1,8):
+Right: 5.24
+Up: 2.55
+Left: 0.41
+Down: 0.67
+
+Position (1,9):
+Right: 1.54
+Up: 6.01
+Left: 6.43
+Down: 4.02
+
+Position (2,0):
+Right: -2.05
+Up: -4.06
+Left: 4.22
+Down: -4.63
+
+Position (2,1):
+Right: 4.36
+Up: 1.29
+Left: 6.10
+Down: 1.41
+
+Position (2,2):
+Right: -0.30
+Up: 2.26
+Left: 2.89
+Down: 0.79
+
+Position (2,3):
+Right: -3.82
+Up: -1.04
+Left: 2.65
+Down: -2.17
+
+Position (2,4):
+Right: 1.64
+Up: 3.15
+Left: 2.32
+Down: 1.84
+
+Position (2,5):
+Right: 2.93
+Up: 1.48
+Left: 3.70
+Down: -3.05
+
+Position (2,6):
+Right: -3.15
+Up: -3.82
+Left: -3.68
+Down: -2.51
+
+Position (2,7):
+Right: 5.94
+Up: 5.32
+Left: 5.74
+Down: 1.23
+
+Position (2,8):
+Right: 5.64
+Up: 0.50
+Left: 6.01
+Down: 7.90
+
+Position (2,9):
+Right: 4.84
+Up: 0.46
+Left: 1.45
+Down: 6.26
+
+Position (3,0):
+Right: 1.30
+Up: 1.22
+Left: 4.22
+Down: -2.94
+
+Position (3,1):
+Right: 6.09
+Up: 8.67
+Left: 5.46
+Down: 0.35
+
+Position (3,2):
+Right: 1.57
+Up: 0.86
+Left: 3.02
+Down: 2.76
+
+Position (3,3):
+Right: 4.20
+Up: 1.24
+Left: 5.97
+Down: 2.59
+
+Position (3,4):
+Right: 1.22
+Up: 0.36
+Left: 0.54
+Down: 3.73
+
+Position (3,5):
+Right: 1.14
+Up: -2.17
+Left: 3.56
+Down: 2.06
+
+Position (3,6):
+Right: 1.83
+Up: 0.28
+Left: 5.88
+Down: 3.23
+
+Position (3,7):
+Right: 3.45
+Up: -0.35
+Left: 4.02
+Down: -0.27
+
+Position (3,8):
+Right: -2.37
+Up: -0.51
+Left: -4.13
+Down: 3.94
+
+Position (3,9):
+Right: -0.17
+Up: -4.02
+Left: 0.37
+Down: 1.32
+
+Position (4,0):
+Right: 2.50
+Up: 0.22
+Left: 3.32
+Down: 0.89
+
+Position (4,1):
+Right: 3.72
+Up: -0.66
+Left: -1.64
+Down: 3.40
+
+Position (4,2):
+Right: 0.45
+Up: 1.21
+Left: 3.46
+Down: 3.78
+
+Position (4,3):
+Right: 3.54
+Up: 0.70
+Left: 1.44
+Down: 1.40
+
+Position (4,4):
+Right: 6.25
+Up: 7.00
+Left: 6.05
+Down: 1.79
+
+Position (4,5):
+Right: 1.38
+Up: 2.81
+Left: 3.62
+Down: 1.54
+
+Position (4,6):
+Right: 5.56
+Up: 5.13
+Left: 14.77
+Down: 5.55
+
+Position (4,7):
+Right: 0.57
+Up: 2.38
+Left: 0.11
+Down: 0.30
+
+Position (4,8):
+Right: -1.43
+Up: 0.99
+Left: 2.11
+Down: -1.19
+
+Position (4,9):
+Right: 0.45
+Up: -3.44
+Left: 0.29
+Down: -0.17
+
+Position (5,0):
+Right: -1.69
+Up: 2.26
+Left: 3.05
+Down: -2.12
+
+Position (5,1):
+Right: 3.67
+Up: 3.02
+Left: 0.48
+Down: 3.42
+
+Position (5,2):
+Right: 0.07
+Up: 1.19
+Left: 3.74
+Down: 3.48
+
+Position (5,3):
+Right: -0.65
+Up: 2.27
+Left: -0.83
+Down: 3.69
+
+Position (5,4):
+Right: 3.26
+Up: 4.24
+Left: 4.14
+Down: 1.25
+
+Position (5,5):
+Right: 2.21
+Up: 1.26
+Left: 3.71
+Down: 0.97
+
+Position (5,6):
+Right: 0.05
+Up: 3.38
+Left: 0.15
+Down: 3.71
+
+Position (5,7):
+Right: 1.45
+Up: 2.15
+Left: 0.03
+Down: 1.05
+
+Position (5,8):
+Right: -0.10
+Up: 0.39
+Left: 3.55
+Down: -3.58
+
+Position (5,9):
+Right: 2.42
+Up: -2.95
+Left: 0.45
+Down: 0.29
+
+Position (6,0):
+Right: 9.99
+Up: 1.47
+Left: 7.98
+Down: 0.40
+
+Position (6,1):
+Right: 1.79
+Up: 5.74
+Left: 2.61
+Down: 5.78
+
+Position (6,2):
+Right: 0.49
+Up: 3.55
+Left: 2.12
+Down: 2.22
+
+Position (6,3):
+Right: 1.49
+Up: 3.62
+Left: 3.61
+Down: 2.70
+
+Position (6,4):
+Right: 1.20
+Up: 3.57
+Left: 1.37
+Down: 0.41
+
+Position (6,5):
+Right: 0.12
+Up: 3.61
+Left: 2.07
+Down: 2.77
+
+Position (6,6):
+Right: 3.64
+Up: 1.28
+Left: 3.66
+Down: 0.48
+
+Position (6,7):
+Right: -1.99
+Up: -0.19
+Left: -2.31
+Down: -1.73
+
+Position (6,8):
+Right: -0.41
+Up: 2.13
+Left: 3.92
+Down: 3.04
+
+Position (6,9):
+Right: 3.69
+Up: 6.38
+Left: 0.24
+Down: 1.80
+
+Position (7,0):
+Right: 2.47
+Up: 1.93
+Left: 2.36
+Down: 3.06
+
+Position (7,1):
+Right: 0.91
+Up: 6.77
+Left: 2.67
+Down: 0.96
+
+Position (7,2):
+Right: 1.72
+Up: 1.58
+Left: 3.50
+Down: -1.65
+
+Position (7,3):
+Right: 0.06
+Up: 2.57
+Left: 2.54
+Down: 3.48
+
+Position (7,4):
+Right: 0.12
+Up: 1.17
+Left: 3.54
+Down: 1.40
+
+Position (7,5):
+Right: 2.98
+Up: 2.43
+Left: 0.40
+Down: 3.56
+
+Position (7,6):
+Right: -0.94
+Up: 3.45
+Left: 2.05
+Down: 0.26
+
+Position (7,7):
+Right: 3.45
+Up: 0.84
+Left: 3.37
+Down: 2.69
+
+Position (7,8):
+Right: -0.02
+Up: 1.60
+Left: 3.85
+Down: 0.31
+
+Position (7,9):
+Right: -2.24
+Up: -2.43
+Left: -5.92
+Down: -3.58
+
+Position (8,0):
+Right: 1.11
+Up: 3.42
+Left: -2.96
+Down: -3.22
+
+Position (8,1):
+Right: -2.59
+Up: 3.44
+Left: -2.93
+Down: -2.36
+
+Position (8,2):
+Right: 1.81
+Up: 3.48
+Left: 3.47
+Down: 1.71
+
+Position (8,3):
+Right: -1.36
+Up: 3.52
+Left: 3.49
+Down: 0.73
+
+Position (8,4):
+Right: 2.37
+Up: 3.57
+Left: 3.54
+Down: 0.97
+
+Position (8,5):
+Right: 0.41
+Up: 3.59
+Left: 3.58
+Down: 0.54
+
+Position (8,6):
+Right: -2.18
+Up: 3.58
+Left: 3.52
+Down: -0.64
+
+Position (8,7):
+Right: 0.24
+Up: 3.52
+Left: 2.86
+Down: 0.38
+
+Position (8,8):
+Right: -2.46
+Up: 2.51
+Left: 3.66
+Down: 0.04
+
+Position (8,9):
+Right: -4.51
+Up: -2.44
+Left: -1.08
+Down: -1.91
+
+Position (9,0):
+Right: 2.32
+Up: 1.40
+Left: 3.40
+Down: -1.27
+
+Position (9,1):
+Right: 5.70
+Up: 1.94
+Left: 3.55
+Down: 2.27
+
+Position (9,2):
+Right: 4.20
+Up: 6.21
+Left: 7.43
+Down: 3.87
+
+Position (9,3):
+Right: 0.49
+Up: 4.53
+Left: 2.08
+Down: 5.07
+
+Position (9,4):
+Right: 2.52
+Up: 10.32
+Left: 2.88
+Down: 0.31
+
+Position (9,5):
+Right: 5.41
+Up: 1.03
+Left: 5.14
+Down: 2.82
+
+Position (9,6):
+Right: 3.92
+Up: 1.15
+Left: 2.54
+Down: 0.52
+
+Position (9,7):
+Right: -4.59
+Up: -1.18
+Left: -1.39
+Down: -2.51
+
+Position (9,8):
+Right: 4.17
+Up: 0.71
+Left: 4.03
+Down: 6.45
+
+Position (9,9):
+Right: 2.59
+Up: 3.56
+Left: 2.85
+Down: 14.90

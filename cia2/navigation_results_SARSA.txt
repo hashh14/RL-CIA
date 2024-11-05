@@ -1,0 +1,160 @@
+Grid Navigation Results
+=====================
+
+Grid Size: 5x5
+Number of Obstacles: 5
+Total Episodes: 1952
+Final Total Reward: 7
+
+Final Q-Values:
+=============
+
+Position (0,0):
+Right: -5.00
+Up: -0.32
+Left: -9.80
+Down: -9.94
+
+Position (0,1):
+Right: -3.34
+Up: 1.66
+Left: -9.97
+Down: -2.15
+
+Position (0,2):
+Right: -2.74
+Up: 5.75
+Left: -9.07
+Down: -2.39
+
+Position (0,3):
+Right: 8.22
+Up: 2.82
+Left: 5.44
+Down: -3.46
+
+Position (0,4):
+Right: 5.53
+Up: 2.57
+Left: 0.29
+Down: 6.67
+
+Position (1,0):
+Right: -5.00
+Up: -2.20
+Left: -2.16
+Down: -10.00
+
+Position (1,1):
+Right: -9.99
+Up: -10.00
+Left: -1.14
+Down: -4.97
+
+Position (1,2):
+Right: 2.89
+Up: 4.56
+Left: 1.32
+Down: 3.58
+
+Position (1,3):
+Right: 3.26
+Up: 8.58
+Left: 12.56
+Down: 2.32
+
+Position (1,4):
+Right: 7.42
+Up: 3.48
+Left: 11.39
+Down: 0.44
+
+Position (2,0):
+Right: -5.00
+Up: -10.00
+Left: -1.55
+Down: -10.00
+
+Position (2,1):
+Right: 3.22
+Up: 3.92
+Left: 1.96
+Down: 14.63
+
+Position (2,2):
+Right: -5.00
+Up: -10.00
+Left: -10.00
+Down: -10.00
+
+Position (2,3):
+Right: 2.15
+Up: 6.96
+Left: 8.37
+Down: 0.45
+
+Position (2,4):
+Right: 4.43
+Up: 1.13
+Left: 4.14
+Down: 3.59
+
+Position (3,0):
+Right: -5.00
+Up: -3.72
+Left: -2.72
+Down: -10.00
+
+Position (3,1):
+Right: -2.51
+Up: -1.60
+Left: -10.00
+Down: -1.92
+
+Position (3,2):
+Right: -3.55
+Up: -4.61
+Left: -4.73
+Down: -4.95
+
+Position (3,3):
+Right: -2.13
+Up: -10.00
+Left: -10.00
+Down: -4.31
+
+Position (3,4):
+Right: 2.91
+Up: 1.18
+Left: 3.16
+Down: 3.19
+
+Position (4,0):
+Right: -10.00
+Up: -3.39
+Left: -1.51
+Down: -10.00
+
+Position (4,1):
+Right: -10.00
+Up: -5.08
+Left: -0.95
+Down: -5.00
+
+Position (4,2):
+Right: -10.00
+Up: -4.60
+Left: -1.79
+Down: -4.90
+
+Position (4,3):
+Right: -10.00
+Up: -4.58
+Left: -4.23
+Down: -5.09
+
+Position (4,4):
+Right: -9.96
+Up: -9.96
+Left: -9.93
+Down: -5.00
